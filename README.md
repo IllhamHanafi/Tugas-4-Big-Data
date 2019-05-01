@@ -13,6 +13,11 @@ App.py adalah file Python penghubung server dengan engine, dan juga tempat routi
 ### Engine.py
 Engine.py adalah file Python yang menjadi "mesin" dari sistem ini. Engine.py melakukan fungsi seperti menentukan rekomendasi user, mendapatkan history user, dan lain lain
 
+### How to run :
+1. Pastikan Path Folder tempat menyimpan file tidak memuat spasi
+2. Run 'python server.py'
+3. Tunggu hingga console mengeluarkan tulisan "engine ready"
+
 
 
 ## URL yang dapat diakses
